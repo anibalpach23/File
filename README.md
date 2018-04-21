@@ -21,5 +21,7 @@ In no particular order.
 
 ### Things I'm using. 
 
+### In summary. 
 
+I hope you will take it easy on me :pray:. As a new developer I'm still learning how to do things. This project is something I took upon myself to create on my free time. I hope to develop my skills and website even more as the time goes on. 
   
